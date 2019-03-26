@@ -1,4 +1,10 @@
 {
     "excluded_flag": 1,
-    "exclusion_reason": "Excluded"
+    "exclusion_reason": "Excluded",
+    "experiments": {
+        "90000": {
+            "excluded_flag": 1,
+            "key_value_pairs": []
+        }
+    }
 }
