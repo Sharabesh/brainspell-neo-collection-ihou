@@ -4,7 +4,11 @@
     "inclusion_criteria": [
         "sdfds"
     ],
-    "search_to_pmids": {},
+    "search_to_pmids": {
+        "ksg": [
+            "19146819"
+        ]
+    },
     "tags": [
         "Auditory Attention",
         "Focused Attention"
